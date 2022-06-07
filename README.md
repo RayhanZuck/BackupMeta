@@ -25,8 +25,10 @@
 </div>
 <br>
 
-## Tampilan Script
-<img alt="Rayhan" src="https://gambar-upload.rayhan-xyz.repl.co/tampilan.jpg"/>
+## Tampilan Awal
+<img alt="Rayhan" src="https://gambar-upload.rayhan-xyz.repl.co/tampilanawal.jpg"/>
+## Tampilan Asli
+<img alt="Rayhan" src="https://gambar-upload.rayhan-xyz.repl.co/tampilanasli.jpg"/>
 
 #### Tools Ini Menggunakan Sc Meta Asli Tanpa Recode Sedikit Pun
 
