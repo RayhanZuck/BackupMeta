@@ -17,7 +17,7 @@ print(f"""
 |  \ ,---||   ||   |,---||   ||    |   ||    |  \ 
 {P}`   ``---^`---|`   '`---^`   '`---'`---'`---'`   `
           `---'                                   
----------------------------------------------------\n{K}Tools Created By Rayhan!\n\n{H}Github{P}  : github.com/RayhanZuck\n{H}Facebook{P}: fb.com/Rayhan.27.Xyz\n{H}Facebook{P}: fb.com/RayhanBusiness\n\n---------------------------------------------------\n{B}Ketika Crack Diharuskan Memasukkan Username\nDan Password, Masukkan Seperti Dibawah!\n\n{P}[{K}?{P}] Enter SC Username ({H}required{P}) : {H}meta\n{P}[{K}?{P}] Enter Sc Passwoed ({H}required{P}) : {H}metaroyid\n\n{M}Sc Meta Bukan Buatan Saya Melainkan ({P}Roy ID{M})!!\n""")
+---------------------------------------------------\n{K}Tools Created By Rayhan!\n\n{H}Github{P}  : github.com/RayhanZuck\n{H}Facebook{P}: fb.com/Rayhan.27.Xyz\n{H}Facebook{P}: fb.com/RayhanBusiness\n\n---------------------------------------------------\n{B}Ketika Crack Diharuskan Memasukkan Username\nDan Password, Masukkan Seperti Dibawah!\n\n{P}[{K}?{P}] Enter SC Username ({H}required{P}) : {H}meta\n{P}[{K}?{P}] Enter Sc Password ({H}required{P}) : {H}metaroyid\n\n{M}Sc Meta Bukan Buatan Saya Melainkan ({P}Roy ID{M})!!\n""")
 
 print(f'{P}Ketik {H}Run {P}Untuk Masuk Ke Dalam Script\nKetik {M}Out {P}Untuk Keluar Dari Script')
 pilih = input(f'{K}\nKetik{P}: ')
