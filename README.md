@@ -27,6 +27,7 @@
 
 ## Tampilan Awal
 <img alt="Rayhan" src="https://gambar-upload.rayhan-xyz.repl.co/tampilanawal.jpg"/>
+
 ## Tampilan Asli
 <img alt="Rayhan" src="https://gambar-upload.rayhan-xyz.repl.co/tampilanasli.jpg"/>
 
