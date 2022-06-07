@@ -20,7 +20,7 @@ print(f"""
 ---------------------------------------------------
 """)
 print(f'{K}Tools Created By Rayhan')
-print(f'{H}Github{P}: github.com/RayhanZuck')
+print(f'{H}Github{P}  : github.com/RayhanZuck')
 print(f'{H}Facebook{P}: fb.com/Rayhan.27.Xyz')
 print(f'{H}Facebook{P}: fb.com/RayhanBusiness\n')
 print(f'---------------------------------------------------')
