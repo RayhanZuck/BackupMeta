@@ -8,8 +8,8 @@ H = '\x1b[1;92m' # HIJAU
 P = '\x1b[1;97m' # PUTIH
 B = '\x1b[1;96m' # BIRU
 
-os.system('clear')
 os.system('git pull')
+os.system('clear')
 print(f"""
 {M}                                                  
 ,---.          |              ,---,          |    
