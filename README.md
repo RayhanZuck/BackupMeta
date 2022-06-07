@@ -26,7 +26,7 @@
 <br>
 
 ## Tampilan Script
-<img alt="Rayhan" src="https://raw.githubusercontent.com/RayhanZuck/BrutalSpam/main/IMAGE/Screenshot_2022-05-26-03-23-45-840_com.termux-picsay.jpg"/>
+<img alt="Rayhan" src="https://gambar-upload.rayhan-xyz.repl.co/tampilan.jpg"/>
 
 #### Tools Ini Menggunakan Sc Meta Asli Tanpa Recode Sedikit Pun
 
