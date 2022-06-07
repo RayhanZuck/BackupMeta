@@ -20,14 +20,14 @@ print(f"""
 ---------------------------------------------------
 """)
 print(f'{K}Tools Created By Rayhan')
-print(f'{P}Github: github.com/RayhanZuck')
-print(f'Facebook: fb.com/Rayhan.27.Xyz')
-print(f'Facebook: fb.com/RayhanBusiness')
+print(f'{K}Github{P}: github.com/RayhanZuck')
+print(f'{K}Facebook{P}: fb.com/Rayhan.27.Xyz')
+print(f'{K}Facebook{P}: fb.com/RayhanBusiness\n')
 print(f'---------------------------------------------------')
 print(f'{B}Ketika Crack Diharuskan Memasukkan Username\nDan Password, Masukkan Seperti Dibawah!\n')
 print(f'{P}[{K}?{P}] Enter SC Username ({H}required{P}) : {H}meta')
 print(f'{P}[{K}?{P}] Enter Sc Passwoed ({H}required{P}) : {H}metaroyid\n')
-print(f'{M}Sc Ini Bukan Buatan Saya Melainkan ({P}Roy ID{M})!!\n')
+print(f'{M}Sc Meta Bukan Buatan Saya Melainkan ({P}Roy ID{M})!!\n')
 
 print(f'{P}Ketik {H}Run {P}Untuk Masuk Ke Dalam Script\nKetik {M}Out {P}Untuk Keluar Dari Script')
 pilih = input(f'{K}\nKetik{P}: ')
