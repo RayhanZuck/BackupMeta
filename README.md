@@ -28,10 +28,11 @@
 ## Tampilan Script
 <img alt="Rayhan" src="https://raw.githubusercontent.com/RayhanZuck/BrutalSpam/main/IMAGE/Screenshot_2022-05-26-03-23-45-840_com.termux-picsay.jpg"/>
 
-### Tools Ini Menggunakan Sc Meta Asli Tanpa Recode Sedikit Pun
+#### Tools Ini Menggunakan Sc Meta Asli Tanpa Recode Sedikit Pun
 
+#Cara Pasang Dan Jalankan
 ```sh
-git clone https://github.com/RayhanZuck/BrutalSpam
-cd BrutalSpam
-python spam.py
+git clone https://github.com/RayhanZuck/BackupMeta
+cd BackupMeta
+python lari.py
 ```
