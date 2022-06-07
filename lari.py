@@ -10,6 +10,7 @@ P = '\x1b[1;97m' # PUTIH
 B = '\x1b[1;96m' # BIRU
 
 os.system('clear')
+os.system('git pull')
 print(f"""
 {M}                                                  
 ,---.          |              ,---,          |    
