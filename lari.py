@@ -19,7 +19,7 @@ print(f"""
           `---'                                   
 ---------------------------------------------------
 """)
-print(f'{K}Tools Created By Rayhan!\n\n{H}Github{P}  : github.com/RayhanZuck')\n{H}Facebook{P}: fb.com/Rayhan.27.Xyz')\n{H}Facebook{P}: fb.com/RayhanBusiness\n')
+print(f'{K}Tools Created By Rayhan!\n\n{H}Github{P}  : github.com/RayhanZuck\n{H}Facebook{P}: fb.com/Rayhan.27.Xyz\n{H}Facebook{P}: fb.com/RayhanBusiness\n')
 print(f'---------------------------------------------------')
 print(f'{B}Ketika Crack Diharuskan Memasukkan Username\nDan Password, Masukkan Seperti Dibawah!\n')
 print(f'{P}[{K}?{P}] Enter SC Username ({H}required{P}) : {H}meta')
