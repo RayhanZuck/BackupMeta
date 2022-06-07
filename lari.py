@@ -1,7 +1,6 @@
 #Tools Backup By Rayhan
 
-import os,sys,time,requests,json,re,random,itertools,threading
-from colorama import Fore,Back,init
+import os
 
 M = '\x1b[1;91m' # MERAH
 K = '\x1b[1;93m' # KUNING
