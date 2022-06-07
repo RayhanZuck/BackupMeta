@@ -30,7 +30,7 @@
 
 #### Tools Ini Menggunakan Sc Meta Asli Tanpa Recode Sedikit Pun
 
-#Cara Pasang Dan Jalankan
+## Cara Pasang Dan Jalankan
 ```sh
 git clone https://github.com/RayhanZuck/BackupMeta
 cd BackupMeta
