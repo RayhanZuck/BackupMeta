@@ -1,0 +1,35 @@
+#Tools Backup By Rayhan
+#Sc Buat Jalanin Sc Aja Di Recode LoL
+
+import os
+
+M = '\x1b[1;91m' # MERAH
+K = '\x1b[1;93m' # KUNING
+H = '\x1b[1;92m' # HIJAU
+P = '\x1b[1;97m' # PUTIH
+B = '\x1b[1;96m' # BIRU
+
+os.system('clear')
+print(f'{P}-----------------------------------------------------')
+print(f"""| {M},---.          |              ,---,          |    {P}|{M}   
+{P}| {M}|---',---.,   .|---.,---.,---. .-' .   .,---.|__/ {P}|{M} 
+{P}| {M}|  \ ,---||   ||   |,---||   ||    |   ||    |  \ {P}|
+{P}| `   ``---^`---|`   '`---^`   '`---'`---'`---'`   `|
+{P}|           `---'                                   |""")
+print(f'-----------------------------------------------------')
+print(f'| {K}Tools Ini Dibuat Oleh Rayhan, Good Job ! {P}|')
+print(f'--------------------------------------------')
+print(f'| {H}Github Saya{P}  : github.com/RayhanZuck |')
+print(f'| {H}Facebook Saya{P}: fb.com/Rayhan.27.Xyz  |')
+print(f'| {H}Facebook Saya{P}: fb.com/RayhanBusiness |')
+print(f'-----------------------------------------')
+print(f'{P}| Ketik {H}Run {P}Untuk Masuk Ke Dalam Script |')
+print(f'| Ketik {M}Out {P}Untuk Keluar Dari Script    |')
+print(f'{P}-----------------------------------------')
+
+pilih = input(f'{K}\nKetik{P}: {H}')
+if pilih == 'run' or pilih == 'Run':
+      __import__("meta").cek_pw()
+if pilih == 'out' or pilih == 'Out':
+      print(f'{B}\nTerimakasih Telah Menggunakan Tools Ini Enjoy>_<\n')
+      exit()
