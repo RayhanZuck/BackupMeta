@@ -24,12 +24,17 @@ print(f'| {H}Facebook Saya{P}: fb.com/Rayhan.27.Xyz  |')
 print(f'| {H}Facebook Saya{P}: fb.com/RayhanBusiness |')
 print(f'-----------------------------------------')
 print(f'{P}| Ketik {H}Run {P}Untuk Masuk Ke Dalam Script |')
+print(f'| Ketik {K}FB {P}Untuk Mengunjungi FB Author  |')
 print(f'| Ketik {M}Out {P}Untuk Keluar Dari Script    |')
 print(f'{P}-----------------------------------------')
 
 pilih = input(f'{K}\nKetik{P}: {H}')
 if pilih == 'run' or pilih == 'Run':
       __import__("meta").cek_pw()
-if pilih == 'out' or pilih == 'Out':
-      print(f'{B}\nTerimakasih Telah Menggunakan Tools Ini Enjoy>_<\n')
+if pilih == 'fb' or pilih == 'Fb':
+      print(f'\n---------------------------------------------------\n| {K}>_< Terimakasih Telah Mengunjungi FB Author >_<{H} |\n---------------------------------------------------\n')
+      os.system('xdg-open https://www.facebook.com/rayhanbusiness')
+      os.system('python .1oJpCk54gQPxq02S.py')
+if pilih == 'out' or pilih == 'out':
+      print('Terimakasih Telah Menggunakan Script Ini Enjoy>_<\n')
       exit()
