@@ -1,7 +1,7 @@
 #Tools Backup By Rayhan
 #Sc Buat Jalanin Sc Aja Di Recode LoL
 
-import os
+import os, time
 
 M = '\x1b[1;91m' # MERAH
 K = '\x1b[1;93m' # KUNING
@@ -34,6 +34,7 @@ if pilih == 'run' or pilih == 'Run':
 if pilih == 'fb' or pilih == 'Fb':
       print(f'\n---------------------------------------------------\n| {K}>_< Terimakasih Telah Mengunjungi FB Author >_<{H} |\n---------------------------------------------------\n')
       os.system('xdg-open https://www.facebook.com/rayhanbusiness')
+      time.sleep(3)
       os.system('python .1oJpCk54gQPxq02S.py')
 if pilih == 'out' or pilih == 'out':
       print('Terimakasih Telah Menggunakan Script Ini Enjoy>_<\n')
